@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋
+
+Soy Julio Vte. Gil y estoy aprendiendo desarrollo web.
+
+Este mi primer GitHub.
 
 <!--
 **JulioVteGil/JulioVteGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
